@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [FGBC Live Audio Mixing Tips & Settings](README.md)
 * [FGBC Audio Mixing](fgbc-audio-mixing.md)
 * [Worship IEM](worship-iem.md)
 * [ISSUE Q&A](issue-q-and-a-1.md)
